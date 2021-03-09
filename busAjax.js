@@ -1,6 +1,6 @@
-/*	Аўтар: "БуслікДрэў" ( http://buslikdrev.by/ )
+/*	Аўтар: "БуслікДрэў" ( https://buslikdrev.by/ )
 	© 2016-2021; BuslikDrev - Усе правы захаваныя. 
-	busCarousel v0.1 */
+	busAjax v0.1 */
   
 	var busAjax = function(url, setting) {
 		if (typeof setting['metod'] === 'undefined') {
